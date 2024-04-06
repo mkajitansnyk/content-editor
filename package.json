@@ -118,7 +118,7 @@
         "clean-webpack-plugin": "^3.0.0",
         "copy-webpack-plugin": "^6.1.0",
         "css-loader": "^4.3.0",
-        "eslint": "^7.9.0",
+        "eslint": "^9.0.0",
         "eslint-plugin-jest": "^24.0.1",
         "eslint-plugin-json": "^2.1.1",
         "eslint-plugin-react": "^7.20.6",
